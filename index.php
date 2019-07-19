@@ -6,7 +6,8 @@
 
 <body>
 <?php
-echo ("Hello World!, minha primeira APP Feito em PHP na Azure");
+echo ("<h1>Hello World!, minha primeira APP Feito em PHP na Azure</h1>");
+phpinfo();
 ?>
 </body>
 
