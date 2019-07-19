@@ -1,3 +1,13 @@
-<?php
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Hello World!</title>
+</head>
 
-echo "Hello World!, minha primeira APP Feito em PHP na Azure";
+<body>
+<?php
+echo ("Hello World!, minha primeira APP Feito em PHP na Azure");
+?>
+</body>
+
+</html> 
